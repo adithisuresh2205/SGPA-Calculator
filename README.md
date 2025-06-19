@@ -1,6 +1,6 @@
 🎓 SGPA Calculator in C
 
-This is a simple yet efficient **CGPA Calculator** written in the C programming language. It allows users to input subject grades as letter grades (like `O`, `A+`, `P`, etc.) along with credit values and then calculates the **Cumulative Grade Point Average (CGPA)** accordingly.
+This is a simple yet efficient **SGPA Calculator** written in the C programming language. It allows users to input subject grades as letter grades (like `O`, `A+`, `P`, etc.) along with credit values and then calculates the **Semester Grade Point Average (SGPA)** accordingly.
 
 
 📌 Features
@@ -10,7 +10,7 @@ This is a simple yet efficient **CGPA Calculator** written in the C programming 
 - Handles **floating-point precision** (e.g., A+ = 9.5)
 - Calculates CGPA using:  
   \[
-  \text{CGPA} = \frac{\sum (\text{Grade Point} \times \text{Credits})}{\sum (\text{Credits})}
+  \text{SGPA} = \frac{\sum (\text{Grade Point} \times \text{Credits})}{\sum (\text{Credits})}
   \]
 - Error handling for invalid grade inputs
 
