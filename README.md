@@ -27,3 +27,21 @@ This is a simple yet efficient **SGPA Calculator** written in the C programming 
 | C     | 6.0         |
 | P     | 5.0         |
 | F     | 0.0         |
+
+
+
+🛠 Tech Stack
+Language: C
+Compiler: gcc or any standard C compiler
+Platform: Cross-platform (Windows, Linux, macOS)
+
+
+
+📜 License
+This project is open-source and free to use for educational purposes.
+
+
+
+🙌 Contributions
+Pull requests and suggestions are welcome!
+If you find bugs or want to add features like file I/O or GUI, feel free to fork and contribute.
